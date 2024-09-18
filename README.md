@@ -83,6 +83,12 @@ Please ensure that you write unit tests for any new functionality and update the
 
 ---
 
+### **SCRUM**
+
+![image](https://github.com/user-attachments/assets/158b9674-57b5-4ec3-b372-adeaadcf87b9)
+
+---
+
 ### **License**
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
