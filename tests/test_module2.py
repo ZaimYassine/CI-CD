@@ -43,4 +43,8 @@ def test_sqrt(sample_data):
     AdvCalc = mod2.AdvancedCalculator()
     assert round(AdvCalc.sqrt(a), 2) == 3.16
 
-
+def test_tan(sample_data):
+    a, b, n = sample_data
+    print(f"a = {a}, b = {b} and n = {n}")
+    AdvCalc = mod2.AdvancedCalculator()
+    assert round(AdvCalc.tan(a), 2) == 0.65

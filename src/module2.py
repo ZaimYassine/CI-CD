@@ -21,6 +21,8 @@ class AdvancedCalculator:
     def sqrt(self, a):
         return math.sqrt(a)
         
+    def tan(self, a):
+        return math.tan(a)
     
 if __name__ == "__main__":
     
@@ -31,5 +33,5 @@ if __name__ == "__main__":
     print(f"The exp of the numbers {a} is: {AdvCalc.exp(a)}")
     print(f"The number {a} power {n} is: {AdvCalc.power(a, n)}")  
     print(f"The sqrt of the numbers {a} is: {AdvCalc.sqrt(a)}")
-
+    print(f"The tan of the numbers {a} is: {AdvCalc.tan(a)}")
     
